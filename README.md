@@ -5,3 +5,5 @@
 算法流程图：
 
 ![ID3](https://github.com/jxa124/Machine_Learning/blob/master/%E7%AE%97%E6%B3%95%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+> * 决策树学习 https://www.jianshu.com/p/f038116aeddc
